@@ -1,1 +1,1 @@
-web: gunicorn ./mysite/tarea1.wsgi
+web: gunicorn tarea1.wsgi
